@@ -1,0 +1,11 @@
+form.contact-form {
+    text-align: center;
+    margin: 0;
+
+    padding: 30px;
+}
+
+
+input#booknow {
+    width: 100%;
+}
