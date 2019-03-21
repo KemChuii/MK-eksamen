@@ -26,3 +26,7 @@ submit-form {
     border-radius: none;
 }
 font-family sanserif;
+
+.wrap {
+    display: none;
+}
