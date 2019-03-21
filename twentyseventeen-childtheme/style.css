@@ -8,5 +8,6 @@ Version: 0.0.1
 Template: twentyseventeen
 */
 svg.icon.icon-arrow-right {
-    display: none;
+    display: block;
 }
+
