@@ -41,6 +41,7 @@ function contactform()
     
 }
 
+
 /* bruges til at linke til plugin's style */
 
     wp_register_style('contactplugin_style', plugins_url('contactformplugin/css/style.css'));
