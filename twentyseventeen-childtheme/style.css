@@ -7,6 +7,11 @@ URI Author: http://phamily.one
 Version: 0.0.1
 Template: twentyseventeen
 */
+.h1 {
+    color: purple;
+}
+
+
 svg.icon.icon-arrow-right {
     display: block;
 }
@@ -30,3 +35,5 @@ font-family sanserif;
 .wrap {
     display: none;
 }
+
+
