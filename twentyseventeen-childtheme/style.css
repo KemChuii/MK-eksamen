@@ -11,7 +11,7 @@ Template: twentyseventeen
 
 
 svg.icon.icon-arrow-right {
-    display: block;
+    display: none;
 }
 
 section.elementor-element.elementor-element-5eb4ff89.elementor-section-content-middle.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default.elementor-section.elementor-top-section {
@@ -19,7 +19,7 @@ section.elementor-element.elementor-element-5eb4ff89.elementor-section-content-m
 }
 
 submit-form {
-   background: lightgrey;
+    background: lightgrey;
     border: 1px solid black;
 }
 
@@ -28,10 +28,7 @@ submit-form {
     border: 3px solid black;
     border-radius: none;
 }
-font-family sanserif;
 
 .wrap {
     display: none;
 }
-
-
