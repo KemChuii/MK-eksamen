@@ -21,5 +21,6 @@ submit-form {
 
 .popupCloseButton {
     background-color: none;
-    border: 3px solid white;
+    border: 3px solid black;
+    border-radius: none;
 }
