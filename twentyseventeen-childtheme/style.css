@@ -17,5 +17,9 @@ section.elementor-element.elementor-element-5eb4ff89.elementor-section-content-m
 
 submit-form {
    background: lightgrey;
-  
+}
+
+.popupCloseButton {
+    background-color: none;
+    border: 3px solid white;
 }
