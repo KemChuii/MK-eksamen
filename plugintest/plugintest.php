@@ -1,6 +1,6 @@
 <?php
 /*
-*Plugin Name: Simple WordPress Contact Form Plugin
+*Plugin Name: Simple WordPress submit Form Plugin
 *Plugin URI: http://localhost
 *Description: This is a simple plugin based on HTML5, CSS and PHP with a submit form where you can submit to be redirected to another site.
 *Version: 0.1.1
@@ -12,8 +12,9 @@
 function my_form()
 {
     $content = '';
+   
     
-      $content .='<form class="submit" method="post" action="#">';
+      $content .='<form class="submit" method="post" action="https://phamily.one/mk/book-et-moede/">';
     
     
     $content .= '<div class="submit-form">';
@@ -33,12 +34,9 @@ function my_form()
     $content .= '</div>';
   
   
-   
-   
-    
-    $content .= '</div>';
-    
+    $content .= '</div>'; 
     $content .='</form>';
+   
     return $content;
 }
 
